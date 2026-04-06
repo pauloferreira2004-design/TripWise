@@ -14,6 +14,8 @@ Atualmente, o planejamento de viagens exige o uso de múltiplas plataformas, tor
 
 Planning a trip usually requires multiple platforms, making the process complex and inefficient. TripWise aims to simplify this by providing an integrated solution in a single system.
 
+![Diagrama](docs/diagramas/diagrama-casos-de-uso.png)
+
 ---
 
 ## 🎯 Objetivo / Objective
