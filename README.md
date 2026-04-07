@@ -12,6 +12,8 @@ O **TripWise** é um sistema de planejamento inteligente de viagens que auxilia 
 
 Atualmente, o planejamento de viagens exige o uso de múltiplas plataformas, tornando o processo complexo e ineficiente. O TripWise centraliza essas funcionalidades em um único sistema, facilitando a tomada de decisão.
 
+![Figure](docs/diagramas/Trip_name.pdf)
+
 ---
 
 ## 🇺🇸 About the Project
