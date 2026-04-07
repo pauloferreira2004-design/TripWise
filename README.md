@@ -1,5 +1,9 @@
 # 🌍 TripWise – Smart Travel Planning System
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+![Projeto](https://img.shields.io/badge/projeto-acadêmico-blue?style=for-the-badge)
+![Stack](https://img.shields.io/badge/stack-Node.js%20%7C%20React-green?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 ---
 
 ## 🇧🇷 Sobre o Projeto
