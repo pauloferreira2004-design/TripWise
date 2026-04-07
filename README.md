@@ -91,7 +91,39 @@ To develop a system capable of generating personalized itineraries with activity
 * Versionamento: Git e GitHub
 
 ---
+## 🧩 Metodologia / Methodology
 
+### 🇧🇷 Metodologia
+
+O desenvolvimento do TripWise foi baseado em conceitos de Engenharia de Software e práticas ágeis, com foco na organização, clareza e rastreabilidade dos requisitos.
+
+Foram utilizadas as seguintes abordagens:
+
+- **Levantamento de Requisitos**: definição de requisitos funcionais e não funcionais do sistema  
+- **Modelagem UML**: criação de diagramas de casos de uso, sequência e estados  
+- **Histórias de Usuário**: descrição das funcionalidades sob a perspectiva do usuário  
+- **Cards de História**: detalhamento das histórias com critérios de aceitação  
+- **Documentação Estruturada**: organização do projeto no GitHub com separação por arquivos e diretórios  
+
+Essa abordagem permite melhor compreensão do sistema, facilitando sua evolução e manutenção.
+
+---
+
+### 🇺🇸 Methodology
+
+The development of TripWise was based on Software Engineering principles and agile practices, focusing on organization, clarity, and requirement traceability.
+
+The following approaches were used:
+
+- **Requirements Elicitation**: definition of functional and non-functional requirements  
+- **UML Modeling**: creation of use case, sequence, and state diagrams  
+- **User Stories**: description of system features from the user's perspective  
+- **User Story Cards**: detailed stories including acceptance criteria  
+- **Structured Documentation**: project organization in GitHub using a clear folder structure  
+
+This approach improves system understanding and facilitates future evolution and maintenance.
+
+---
 ## 📂 Estrutura do Projeto / Project Structure
 
 ```
