@@ -1,20 +1,20 @@
 # 🌍 TripWise – Smart Travel Planning System
 
+---
+
 ## 🇧🇷 Sobre o Projeto
 
-O **TripWise** é um sistema de planejamento inteligente de viagens que tem como objetivo auxiliar usuários na organização de roteiros otimizados, considerando tempo, custo e preferências pessoais.
+O **TripWise** é um sistema de planejamento inteligente de viagens que auxilia usuários na criação de roteiros otimizados, considerando tempo, custo e preferências pessoais.
 
-Atualmente, o planejamento de viagens exige o uso de múltiplas plataformas, tornando o processo complexo, demorado e muitas vezes ineficiente. O TripWise surge como uma solução integrada, centralizando todas as informações necessárias em um único sistema.
+Atualmente, o planejamento de viagens exige o uso de múltiplas plataformas, tornando o processo complexo e ineficiente. O TripWise centraliza essas funcionalidades em um único sistema, facilitando a tomada de decisão.
 
 ---
 
 ## 🇺🇸 About the Project
 
-**TripWise** is a smart travel planning system designed to help users organize optimized travel itineraries based on time, cost, and personal preferences.
+**TripWise** is a smart travel planning system that helps users create optimized travel itineraries based on time, cost, and personal preferences.
 
-Planning a trip usually requires multiple platforms, making the process complex and inefficient. TripWise aims to simplify this by providing an integrated solution in a single system.
-
-![Diagrama](docs/diagramas/diagrama-casos-de-uso.png)
+It simplifies trip planning by integrating multiple functionalities into a single platform.
 
 ---
 
@@ -22,11 +22,11 @@ Planning a trip usually requires multiple platforms, making the process complex 
 
 ### 🇧🇷
 
-Desenvolver um sistema capaz de gerar roteiros de viagem personalizados, oferecendo sugestões de atividades, estimativas de custos e otimização de deslocamento entre destinos.
+Desenvolver um sistema capaz de gerar roteiros personalizados com sugestões de atividades, estimativas de custo e otimização de deslocamento.
 
 ### 🇺🇸
 
-To develop a system capable of generating personalized travel itineraries, providing activity suggestions, cost estimates, and optimized routes between destinations.
+To develop a system capable of generating personalized itineraries with activity suggestions, cost estimation, and route optimization.
 
 ---
 
@@ -35,62 +35,51 @@ To develop a system capable of generating personalized travel itineraries, provi
 ### 🇧🇷
 
 * Cadastro de viagens com múltiplos destinos
-* Definição de preferências do usuário (cultura, gastronomia, lazer, etc.)
-* Geração automática de roteiros personalizados
-* Sugestão de pontos turísticos e atividades
-* Estimativa de custos (hospedagem, transporte, atrações)
-* Comparação de meios de transporte (custo x tempo)
-* Otimização de rotas entre destinos
-* Edição manual do roteiro gerado
+* Definição de preferências do usuário
+* Geração automática de roteiros
+* Estimativa de custos
+* Comparação de transportes
+* Otimização de rotas
 
 ### 🇺🇸
 
-* Travel creation with multiple destinations
-* User preference settings (culture, food, leisure, etc.)
-* Automatic generation of personalized itineraries
-* Tourist attractions and activity suggestions
-* Cost estimation (accommodation, transport, attractions)
-* Transport comparison (cost vs time)
-* Route optimization between locations
-* Manual editing of generated itineraries
+* Multi-destination trip creation
+* User preference settings
+* Automatic itinerary generation
+* Cost estimation
+* Transport comparison
+* Route optimization
 
 ---
 
-## 👥 Público-Alvo / Target Audience
+## 📄 Documentação
 
-### 🇧🇷
-
-* Pessoas que desejam planejar viagens de forma eficiente
-* Turistas que buscam economia de tempo e dinheiro
-* Usuários que desejam roteiros personalizados
-
-### 🇺🇸
-
-* Travelers looking for efficient trip planning
-* Tourists seeking to save time and money
-* Users interested in personalized travel itineraries
+* 📌 [Requisitos do Sistema](docs/requisitos.md)
+* 👤 [Histórias de Usuário](docs/historias-de-usuario.md)
 
 ---
 
-## 💡 Diferenciais / Differentials
+## 🎨 Diagramas
 
-### 🇧🇷
+### 🔹 Diagrama de Casos de Uso
 
-* Integração de planejamento, custo e otimização em um único sistema
-* Foco na tomada de decisão inteligente
-* Personalização baseada em preferências do usuário
+![Diagrama de Casos de Uso](docs/diagramas/diagrama-casos-de-uso.png)
 
-### 🇺🇸
+---
 
-* Integration of planning, cost estimation, and optimization
-* Focus on smart decision-making
-* Personalization based on user preferences
+### 🔹 Diagrama de Sequência
+
+![Diagrama de Sequência](docs/diagramas/diagrama-sequencia.png)
+
+---
+
+### 🔹 Diagrama de Estados
+
+![Diagrama de Estados](docs/diagramas/diagrama-estados.png)
 
 ---
 
 ## 🛠 Tecnologias Utilizadas / Technologies
-
-*(Podem ser ajustadas conforme a evolução do projeto)*
 
 * Frontend: React.js
 * Backend: Node.js
@@ -104,9 +93,15 @@ To develop a system capable of generating personalized travel itineraries, provi
 ```
 TripWise/
 │
-├── docs/           # Documentação (diagramas, requisitos)
-├── src/            # Código-fonte
-├── README.md       # Documentação principal
+├── docs/
+│   ├── requisitos.md
+│   ├── historias-de-usuario.md
+│   ├── diagramas/
+│       ├── diagrama-casos-de-uso.png
+│       ├── diagrama-sequencia.png
+│       ├── diagrama-estados.png
+│
+├── README.md
 ```
 
 ---
