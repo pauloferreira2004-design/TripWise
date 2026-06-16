@@ -154,18 +154,6 @@ https://github.com/users/pauloferreira2004-design/projects/2/views/1
 
 ---
 
-## 🎓 Informações Acadêmicas
-
-**Instituição:** Fatec São Carlos
-
-**Disciplina:** Engenharia de Software
-
-**Professor Responsável:**
-
-Prof. Me. Arnaldo Napolitano Sanchez
-
----
-
 ## 📂 Estrutura do Projeto
 
 ```text
