@@ -15,8 +15,6 @@ O sistema tem como objetivo auxiliar usuários na criação de roteiros personal
 
 A proposta busca centralizar informações normalmente dispersas em diferentes plataformas, oferecendo uma experiência integrada de planejamento de viagens.
 
-![Figure](docs/diagramas/Trip_name.png)
-
 ---
 
 ## 🇺🇸 About the Project
@@ -88,6 +86,27 @@ Desenvolver um sistema capaz de gerar roteiros personalizados com sugestões de 
 ### Diagrama de Estados
 
 ![Diagrama de Estados](docs/diagramas/diagrama-estados.png)
+
+---
+## 🎨 Protótipos e Mockups
+
+Os protótipos abaixo representam uma proposta visual para a interface do sistema TripWise, elaborada para auxiliar na validação dos requisitos e na experiência do usuário.
+
+### 🏠 Tela Inicial
+
+![Tela Inicial](docs/mockups/tela-home.png)
+
+### ✈️ Planejamento de Viagem
+
+![Planejamento de Viagem](docs/mockups/tela-planejamento.png)
+
+### 💰 Estimativa de Custos
+
+![Estimativa de Custos](docs/mockups/tela-orcamento.png)
+
+### 🗺️ Roteiro Gerado
+
+![Roteiro Gerado](docs/mockups/tela-roteiro.png)
 
 ---
 
