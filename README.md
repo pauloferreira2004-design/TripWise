@@ -172,8 +172,7 @@ Projeto disponível em:
 https://github.com/users/pauloferreira2004-design/projects/2/views/1
 
 ---
-
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto / Project Structure
 
 ```text
 TripWise/
@@ -185,6 +184,12 @@ TripWise/
 │   │   ├── diagrama-casos-de-uso.png
 │   │   ├── diagrama-sequencia.png
 │   │   └── diagrama-estados.png
+│   │
+│   ├── mockups/
+│   │   ├── tela-home.png
+│   │   ├── tela-planejamento.png
+│   │   ├── tela-orcamento.png
+│   │   └── tela-roteiro.png
 │
 ├── README.md
 ```
